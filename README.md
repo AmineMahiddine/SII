@@ -1,4 +1,4 @@
 # SII
 
 ### this repo will contain my *SII master degree* projects 
-### *SII* : système informatique intelligent (smart computer system and AI)
+### *SII* Master Systèmes Informatiques Intelligents  (smart computer system and AI)
